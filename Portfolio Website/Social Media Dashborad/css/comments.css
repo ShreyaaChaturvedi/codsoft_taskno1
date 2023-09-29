@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+h3{
+    color: silver;
+}
+.chart-container {
+      width: 80%;
+      max-width: 800px;
+      margin: 0 auto;
+      height: 400px;
+ }
+    
+  
